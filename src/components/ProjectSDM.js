@@ -61,7 +61,7 @@ export default function ProjectSDM() {
                 variant="outlined"
                 color="primary"
                 component="a"
-                href="https://github.com/Siddu B R497cs/collegewedsite44"
+                href="https://github.com/Siddu-119/Collegeclonewebsite"
                 target="_blank"
                 rel="noopener noreferrer"
               >
