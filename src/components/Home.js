@@ -7,7 +7,7 @@ import Button from '@mui/material/Button';
 export default function Home() {
   // Typing animation for name and role
   const name = 'I AM SIDDU B R';
-  const roles = ['I am Developer', 'I am Frontend Developer'];
+  const roles = ['I am Designer', 'I am Frontend Developer'];
   const [typedName, setTypedName] = useState('');
   const [showRole, setShowRole] = useState(false);
   const [roleIndex, setRoleIndex] = useState(0);
