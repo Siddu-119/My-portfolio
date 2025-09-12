@@ -63,9 +63,16 @@ Driven by a desire to create meaningful digital experiences, I'm eager to join d
               >
                 Contact Me
               </Button>
-              <Button variant="outlined" color="primary" onClick={onDownloadResume}>
-                Download Resume
-              </Button>
+              <a
+                href="/Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ textDecoration: 'none' }}
+              >
+                <Button variant="outlined" color="primary">
+                  View Resume
+                </Button>
+              </a>
             </Stack>
           </Grid>
         </Grid>
