@@ -42,7 +42,7 @@ export default function Drawer({
     { id: 'contact', label: 'Contact', icon: <ContactSupportIcon /> },
   ],
   socials = [
-    { id: 'github', icon: <GitHubIcon />, href: 'https://github.com/Siddu-119/my-portfolio' },
+    { id: 'github', icon: <GitHubIcon />, href: 'https://github.com/Siddu-119/My-portfolio' },
     { id: 'instagram', icon: <InstagramIcon />, href: 'https://instagram.com/your_instagram_username' },
     { id: 'email', icon: <MailOutlineIcon />, href: 'mailto:siddu19112007@gmail.com' },
   ],
