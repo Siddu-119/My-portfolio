@@ -32,7 +32,7 @@ An AI-powered study assistant project.
 
 🌐 Live Portfolio
 
-🔗 "Visit My Portfolio" (https://my-portfoliosiddubr119.vercel.app/)
+🔗 Visit My Portfolio
 
 🎯 Currently Learning
 
@@ -42,8 +42,10 @@ An AI-powered study assistant project.
 
 📫 Connect With Me
 
-- LinkedIn: "Siddu B R" (https://linkedin.com/in/siddu-b-r-b05210385)
+- GitHub: Siddu-119
+
 
 ---
 
 ⭐ Thanks for visiting my repository!
+In this remove GitHub and add LinkedIn
